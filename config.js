@@ -71,7 +71,7 @@ async function loadConfig() {
         "https://api.zahwazein.xyz": "zenzkey_1ec92f71d3bb",
         "https://api.botcahx.eu.org": "ngGdhzHk",
         "https://prodia.com": ["7e33be3f-5af6-42b2-854b-6439b3732050", "48847940-aded-4214-9400-333c518105f0", "69dc2e5b-24b3-426e-952f-6a36fbd69722", "5f4179ac-0d29-467c-bfbc-32db97afa1d4", "dc80a8a4-0b98-4d54-b3e4-b7c797bc2527"]
-      }, global.nomorbot = "6285198276345", global.nomorown = "6282195322106", global.namebot = " 𝐇𝐚𝐬𝐤𝐞𝐥𝐥-𝐁𝐨𝐭 么⁩ ",
+      }, global.nomorbot = "6285198276345", global.nomorown = "19419318284", global.namebot = " 𝐇𝐚𝐬𝐤𝐞𝐥𝐥-𝐁𝐨𝐭 么⁩ ",
       global.nameown = "「 𝑴𝒏𝒛𝑪𝒐𝒏𝒔𝒊𝒔𝒕𝒆𝒏𝒔𝒚 」", global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]),
       global.htjava = pickRandom(["乂", "⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"]),
       global.wm = "                「 𝐇𝐚𝐬𝐤𝐞𝐥𝐥-𝐁𝐨𝐭 么 」", global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷",
